@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "name": "All Categories"
+    },
+    {
+        "id": "02",
+        "name": "Acoustic Guitar"
+    },
+    {
+        "id": "03",
+        "name": "Lead Guitar"
+    },
+    {
+        "id": "04",
+        "name": "Bass Guitar"
+    },
+    {
+        "id": "05",
+        "name": "Ukulele"
+    }
+]
