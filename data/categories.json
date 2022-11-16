@@ -18,5 +18,9 @@
     {
         "id": "05",
         "name": "Ukulele"
+    },
+    {
+        "id": "06",
+        "name": "Guitar Processor"
     }
 ]
